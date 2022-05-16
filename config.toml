@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-ar'
+title = 'Sitio del programador minseg'
+theme = "ananke"

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitio del programador minseg</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Sitio del programador minseg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Mon, 16 May 2022 16:51:52 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primer Post</title>
+      <link>http://example.org/posts/mi-primer-post/</link>
+      <pubDate>Mon, 16 May 2022 16:51:52 -0300</pubDate>
+      
+      <guid>http://example.org/posts/mi-primer-post/</guid>
+      <description>path %PATH%;C:\Users\juan.nagy\Hugo
+notar que con git-bash capaz que funciona as�, sino git cmd, usar as�
+cambiar el nombre del branch a &amp;ldquo;main&amp;rdquo; con GIT para que lo acepte mejor github
+Thanks everyone - it works. In config.toml, I had to replace theme = \ &amp;ldquo;ananke\ &amp;quot; by theme = �ananke�</description>
+    </item>
+    
+  </channel>
+</rss>
