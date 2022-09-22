@@ -6,17 +6,32 @@
     <description>Recent content on Sitio del programador minseg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 16 May 2022 16:51:52 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Sep 2022 17:19:12 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mi Primer Post</title>
+      <title>Misegundopost</title>
+      <link>http://example.org/posts/misegundopost/</link>
+      <pubDate>Thu, 22 Sep 2022 17:19:12 -0300</pubDate>
+      
+      <guid>http://example.org/posts/misegundopost/</guid>
+      <description>En este día en este repositorio y global se cambio el nombre de usuario de git y mail. Hacerlo así de ahora en mas. Ademas agrega otro post para probar y ademas
+Esta carpeta es prueba4 en minseg
+RECORDAR:
+Es absolutamente necesario [ git clone &amp;ndash;recurse-submodules &amp;hellip;] para clonar el repositorio de github porque sino tira el error &amp;ldquo;no layout file for &amp;ldquo;HTML&amp;rdquo; for kind &amp;ldquo;home&amp;rdquo;&amp;rdquo; https://discourse.gohugo.io/t/no-layout-file/38408/5
+GIT no sube carpetas vacías.</description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Post modificado</title>
       <link>http://example.org/posts/mi-primer-post/</link>
       <pubDate>Mon, 16 May 2022 16:51:52 -0300</pubDate>
       
       <guid>http://example.org/posts/mi-primer-post/</guid>
-      <description>path %PATH%;C:\Users\juan.nagy\Hugo
+      <description>GIT status, git add *, git commit -m &amp;ldquo;mensaje&amp;rdquo;, git remote, git push
+Recordar que es necesario cuando se usa git portable agregar %PATH%;C:\Users\juan.nagy\Hugo
+para que pueda invocar a Hugo desde las carpetas donde está el sitio estático.
 notar que con git-bash capaz que funciona as�, sino git cmd, usar as�
 cambiar el nombre del branch a &amp;ldquo;main&amp;rdquo; con GIT para que lo acepte mejor github
-Thanks everyone - it works. In config.toml, I had to replace theme = \ &amp;ldquo;ananke\ &amp;quot; by theme = �ananke�</description>
+Thanks everyone - it works.</description>
     </item>
     
   </channel>
