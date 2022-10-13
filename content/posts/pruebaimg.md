@@ -1,9 +1,11 @@
 ---
 title: "Pruebaimg"
+type: post
 date: 2022-09-28T17:28:02-03:00
 draft: true
+thumbnail: img/Miniaturas/Meta.png
 cover:
-    image: img/Meta.PNG
+    image: img/Meta.png
     alt: 'imagen de prueba'
     caption: 'muestra imagen'
 ---
