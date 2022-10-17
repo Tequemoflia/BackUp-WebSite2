@@ -2,3 +2,11 @@ baseURL = 'http://example.org/'
 languageCode = 'es-ar'
 title = 'Sitio del programador minseg'
 theme = "ananke"
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about hugo'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
